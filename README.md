@@ -8,8 +8,6 @@
 
 - 💬 Ask me about anything related to **TS/JS , React, Node**
 
-- 📫 How to reach me **oussam.sadiki@gmail.com**
-
 - ⚡ Fun fact **What's the best tool for measuring JavaScript code performance? A Stopwatch, of course!**
 <br/><br/>
 
