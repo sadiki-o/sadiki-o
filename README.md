@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oussama Sadiki</h1>
-<h3 align="center">A passionate full-stack developer and open-source enthusiast who is obsessed with open source technologies and anything that is relevent</h3>
+<h3 align="center">A passionate Software Engineer and open-source enthusiast who is obsessed with open source technologies and anything that is relevent</h3>
 
 
 - 🔭 I’m currently working on **improving my skills and develop software that creates impact**
