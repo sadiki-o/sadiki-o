@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **improving my skills and develop software that creates impact**
 
-- 🌱 I’m currently learning **Rust, C and Go**
+- 🌱 I’m currently learning **Rust, Go**
 
-- 💬 Ask me about anything related to **TS/JS , React, Node**
+- 💬 Ask me about anything related to **TS/JS , React, Node, Python**
 
 - ⚡ Fun fact **What's the best tool for measuring JavaScript code performance? A Stopwatch, of course!**
 <br/><br/>
